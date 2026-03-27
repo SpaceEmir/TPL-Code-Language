@@ -1,0 +1,9 @@
+pyproject.toml
+src/tpl/__init__.py
+src/tpl/cli.py
+src/tpl_lang_emir.egg-info/PKG-INFO
+src/tpl_lang_emir.egg-info/SOURCES.txt
+src/tpl_lang_emir.egg-info/dependency_links.txt
+src/tpl_lang_emir.egg-info/entry_points.txt
+src/tpl_lang_emir.egg-info/requires.txt
+src/tpl_lang_emir.egg-info/top_level.txt

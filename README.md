@@ -1,5 +1,5 @@
-# TPL (Table Programming Language) Programming Language
-The TPL Programming Language is a programming language for tables.
+# TPL (Table Programming Language) Programming/Coding Language
+The TPL Programming/Coding Language is a programming/coding language for tables.
 
 To make a table use the `table` function, for example:<br>
 `table "Students"`<br>
@@ -16,4 +16,6 @@ columns "Name","Age","Number"
 row "Student1",10,130
 row "Student2",13,145
 row "Student3",12,102
-````
+```
+If you want to code TPL you have to follow the instructions:
+###1. Install Python
