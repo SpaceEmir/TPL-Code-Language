@@ -18,4 +18,13 @@ row "Student2",13,145
 row "Student3",12,102
 ```
 If you want to code TPL you have to follow the instructions:
-###1. Install Python
+1. Install Python
+Go to https://www.python.org/downloads/ and download Python 3.13
+And go to your terminal and write:
+`python --version`
+or 
+`python3 --version`
+
+2. Install TPL
+Type in terminal:
+`pipx install https://github.com/SpaceEmir/TPL-Code-Language.git`
