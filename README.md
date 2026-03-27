@@ -26,10 +26,13 @@ or
 `python3 --version`
 <br>
 
-2. Install Pipx
-<br>
+2. Install Homebrew  
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+control:
+`brew --version`
+3. Install Pipx  
 `brew istall pipx`
 
-3. Install TPL <br>
+4. Install TPL  
 Type in terminal:
 `pipx install https://github.com/SpaceEmir/TPL-Code-Language.git`
