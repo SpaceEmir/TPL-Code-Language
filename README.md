@@ -24,7 +24,12 @@ And go to your terminal and write:
 `python --version`
 or 
 `python3 --version`
+<br>
 
-2. Install TPL
+2. Install Pipx
+<br>
+`brew istall pipx`
+
+3. Install TPL <br>
 Type in terminal:
 `pipx install https://github.com/SpaceEmir/TPL-Code-Language.git`
