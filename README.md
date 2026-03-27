@@ -31,7 +31,7 @@ or
 control:
 `brew --version`
 3. Install Pipx  
-`brew istall pipx`
+`brew install pipx`
 
 4. Install TPL  
 Type in terminal:
