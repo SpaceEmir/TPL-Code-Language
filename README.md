@@ -43,3 +43,10 @@ Close Terminal and open it again.
 
 6. Conrtol and using
 `tpl`
+
+To upgrade:
+```
+pipx uninstall tpl-lang-emir
+pipx install --force git+https://github.com/SpaceEmir/TPL-Code-Language.git
+hash -r
+```
