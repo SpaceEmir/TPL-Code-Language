@@ -16,6 +16,9 @@ while True:
         commands = line.split()
         if commands and commands[0] == "table":
             table_name = commands[1].replace('"', "")
+            columns = []
+            rows = []
+            data = dict()
 
         if commands and commands[0] == "columns":
             columns = commands[1].split(",")
