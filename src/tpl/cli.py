@@ -47,6 +47,7 @@ def run_tpl(code):
 def main():
     if len(sys.argv) < 2:
         print("Using: tpl file.tpl")
+        import interpreter
         return
 
     filename = sys.argv[1]
