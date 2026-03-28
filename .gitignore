@@ -1,3 +1,2 @@
-src/tpl/
-!src/tpl/__init__.py
+src/tpl/interpreter.py
 project.toml
