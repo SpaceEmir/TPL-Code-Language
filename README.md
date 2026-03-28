@@ -35,4 +35,4 @@ control:
 
 4. Install TPL  
 Type in terminal:
-`pipx install https://github.com/SpaceEmir/TPL-Code-Language.git`
+`pipx install git+https://github.com/SpaceEmir/TPL-Code-Language.git`
