@@ -36,3 +36,10 @@ control:
 4. Install TPL  
 Type in terminal:
 `pipx install git+https://github.com/SpaceEmir/TPL-Code-Language.git`
+
+5. Ensuring pipx  
+`pipx ensurepath`
+Close Terminal and open it again.
+
+6. Conrtol and using
+`tpl`
